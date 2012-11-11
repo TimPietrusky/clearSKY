@@ -2,5 +2,8 @@
 
 A private, secure and high-performance Cloud
 
-## Specification
-Should be commited in the Directory Spec 
+## Project Structure
+
++ Specifications >> Are in the Directory Spec
++ The Server Software >> Is in the Directory Server
++ Client Software >> Is in the Directory Client/<platform>
