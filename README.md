@@ -4,6 +4,6 @@ A private, secure and high-performance Cloud
 
 ## Project Structure
 
-+ Specifications >> Are in the Directory Spec
-+ The Server Software >> Is in the Directory Server
-+ Client Software >> Is in the Directory Client/<platform>
++ Specifications >> Are in the Directory <i>Spec</i>
++ The Server Software >> Is in the Directory <i>Server</i>
++ Client Software >> Is in the Directory <i>Client/<platform></i>
